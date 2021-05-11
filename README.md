@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bhavya Mehta
 
-### Follow me on <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="20px"> [Linked In](https://www.linkedin.com/in/bhavya-y-mehta/)
+### Follow me on <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="16px"> [Linked In](https://www.linkedin.com/in/bhavya-y-mehta/)
 
 I am working as a full-stack web developer, mainly in the MERN stack. I love building products and that's what makes me get up from bed each day. If you need help with your product or are looking for a consultant to help you with React, I'd be happy to help out.
 
