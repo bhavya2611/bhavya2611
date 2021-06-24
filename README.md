@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bhavya Mehta
 
-### Follow me on <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="16px"> [Linked In](https://www.linkedin.com/in/bhavya-y-mehta/)
+### Follow me on [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="20px"> Linked In](https://www.linkedin.com/in/bhavya-y-mehta/)
 
 I am working as a full-stack web developer, mainly in the MERN stack. I love building products and that's what makes me get up from bed each day. If you need help with your product or are looking for a consultant to help you with React, I'd be happy to help out.
 
@@ -15,7 +15,7 @@ Apart from that, I love to volunteer and teach. I have worked with multiple NGO'
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab Logo" width="20px"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="20px"><img src="https://cdn.worldvectorlogo.com/logos/metamask.svg" alt="MetaMask Logo" width="20px"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="20px">
 
 ---
 
