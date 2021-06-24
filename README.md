@@ -8,7 +8,7 @@ Within the organizations I have served, I have consistently delivered high-quali
 
 Apart from that, I love to volunteer and teach. I have worked with multiple NGO's as a coding facilitator and also taught Mathematics to over 250 10th standard students till now.
 
-### Checkout my Gitlab [here](https://gitlab.com/iambhavyamehta) <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="16px"> as I have few of my projects there.
+### Checkout my [Gitlab <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="20px"> here](https://gitlab.com/iambhavyamehta) as I have few of my projects there.
 
 ---
 
