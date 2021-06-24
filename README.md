@@ -6,7 +6,9 @@ I am working as a full-stack web developer, mainly in the MERN stack. I love bui
 
 Within the organizations I have served, I have consistently delivered high-quality software, solved critical problems and been at the forefront of developing products from scratch. This has helped me gain a deeper understanding of not just the technical skills but other vital skills like project management, business requirement analysis and client interaction. These responsibilities have made me a quick learner with a highly adaptable mindset and furthermore have increased my ability to deliver the expected, in due time all while meeting the industry standards.
 
-Apart from that, I love to volunteer and teach. I have worked with multiple NGO's as a coding facilitator and also taught Mathematics to over 250 1oth std students till now.
+Apart from that, I love to volunteer and teach. I have worked with multiple NGO's as a coding facilitator and also taught Mathematics to over 250 10th standard students till now.
+
+### Checkout my Gitlab [here](https://gitlab.com/iambhavyamehta) <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="16px"> as I have few of my projects there.
 
 ---
 
