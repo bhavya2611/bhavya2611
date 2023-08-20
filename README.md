@@ -2,13 +2,11 @@
 
 ### Follow me on [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="20px"> Linked In](https://www.linkedin.com/in/bhavya-y-mehta/)
 
-I am working as a full-stack web developer, mainly in the MERN stack. I love building products and that's what makes me get up from bed each day. If you need help with your product or are looking for a consultant to help you with React, I'd be happy to help out.
+I am no wizard, but I assure you I can create magic when I write code. I am mainly proficient in the MERN stack and Web3. I love building products and that's what makes me get up from bed each day. If you need help with your product or are looking for a consultant to help you with Web Development or with Web3 Development, I'd be happy to help out.
 
-Within the organizations I have served, I have consistently delivered high-quality software, solved critical problems and been at the forefront of developing products from scratch. This has helped me gain a deeper understanding of not just the technical skills but other vital skills like project management, business requirement analysis and client interaction. These responsibilities have made me a quick learner with a highly adaptable mindset and furthermore have increased my ability to deliver the expected, in due time all while meeting the industry standards.
+Within the organizations I have served, I have consistently delivered high-quality software, solved critical problems, and been at the forefront of developing products from scratch. This has helped me gain a deeper understanding of not just technical skills but other vital skills like project management, business requirement analysis, and client interaction. These responsibilities have made me a quick learner with a highly adaptable mindset and furthermore have increased my ability to deliver the expected, in due time all while meeting the industry standards.
 
-Apart from that, I love to volunteer and teach. I have worked with multiple NGO's as a coding facilitator and also taught Mathematics to over 250 10th standard students till now.
-
-### Checkout my [Gitlab <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="20px"> here](https://gitlab.com/iambhavyamehta) as I have few of my projects there.
+Apart from that, I love to volunteer and teach. I have worked with multiple NGOs as a coding facilitator and also taught Mathematics to over 250 10th-standard students till now.
 
 ---
 
