@@ -20,4 +20,4 @@ Apart from that, I love to volunteer and teach. I have worked with multiple NGOs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya2611&hide=java&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavya2611&theme=dark)](https://github.com/bhavya2611/github-readme-stats)
+[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavya2611&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
